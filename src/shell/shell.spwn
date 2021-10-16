@@ -1,6 +1,8 @@
 extract $
 
 path = "~"
+indicator = ">"
+
 while true {
-    cmd = get_input("{} ".fmt(path))
+    cmd = get_input("{}{} ".fmt([path,indicator]))
 }
