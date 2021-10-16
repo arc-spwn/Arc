@@ -20,3 +20,8 @@ It sounded cool, so I went with it.
 
 ## Credits
 - [Spu7Nix](https://github.com/Spu7Nix) - [SPWN](https://github.com/Spu7Nix/SPWN-language), under MIT.
+
+## The Team
+- [Deltara3](https://github.com/Deltara3)
+- [Fl1pNatic](https://github.com/Fl1pNatic)
+- [SeanDaSheep](https://github.com/SeanDaSheep)
