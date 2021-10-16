@@ -1,5 +1,5 @@
 # Arc
-An operating system written in *mostly* [SPWN](https://github.com/Spu7Nix/SPWN-language)
+An operating system written in *mostly* [SPWN](https://github.com/Spu7Nix/SPWN-language) *Hopefully.*
 
 ## About
 Currently it doesn't do anything.
