@@ -13,7 +13,7 @@ I suck at Makefile, so make sure you have the following.
 - XORRISO
 - LD
 
-## Question and Answers
+## Questions and Answers
 > Why was Arc chosen? It doesn't fit the SPWN naming scheme.
 
 It sounded cool, so I went with it.
