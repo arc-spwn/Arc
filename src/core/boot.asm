@@ -1,4 +1,4 @@
-bits 32
+bits 64
 
 section .multiboot
         dd 0x1BADB002
