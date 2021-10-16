@@ -1,0 +1,6 @@
+extract $
+
+path = "~"
+while true {
+    cmd = get_input("{} ".fmt(path))
+}

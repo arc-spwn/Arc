@@ -17,3 +17,6 @@ I suck at Makefile, so make sure you have the following.
 > Why was Arc chosen? It doesn't fit the SPWN naming scheme.
 
 It sounded cool, so I went with it.
+
+## Credits
+- [Spu7Nix](https://github.com/Spu7Nix) - [SPWN](https://github.com/Spu7Nix/SPWN-language), under MIT.
