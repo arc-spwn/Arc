@@ -1,0 +1,18 @@
+exec_proc = (process: @string) {
+    // Will execute a process.
+    // Doesn't do anything at the moment
+}
+
+resolve_path = (path: @string) {
+    // This will ask the kernel for details on the provided path.
+    // For testing it'll always return that it exists.
+    return {
+        provided: path,
+        exists:   true,
+        symlink:  false
+    }
+}
+
+return {
+    resolve_path
+}
