@@ -25,9 +25,22 @@ set_path = (path: @string) {
     // Doesn't do anything at the moment.
 }
 
+// User
+hostname = () {
+    // Will return the system's hostname.
+    // Does nothing at the moment.
+}
+
+username = () {
+    // Will return the current user's username.
+    // Does nothing at the moment.
+}
+
 return {
     exec_proc,
     term_proc,
     resolve_path,
-    set_path
+    set_path,
+    hostname,
+    username
 }

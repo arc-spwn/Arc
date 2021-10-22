@@ -1,3 +1,4 @@
 extract $
+extract import "kcalls.spwn"
 
-print("Arc {} 0.1.0-indev".fmt("arcbtw"))
+print("Arc {} 0.1.0-indev".fmt(hostname()))
