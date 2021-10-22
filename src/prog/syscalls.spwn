@@ -1,8 +1,15 @@
+// Processes
 exec_proc = (process: @string) {
     // Will execute a process.
-    // Doesn't do anything at the moment
+    // Doesn't do anything at the moment.
 }
 
+term_proc = (process_id: @number) {
+    // Will terminate a process.
+    // Doesn't do anything at the moment.
+}
+
+// Filesystem
 resolve_path = (path: @string) {
     // This will ask the kernel for details on the provided path.
     // For testing it'll always return that it exists.
@@ -13,7 +20,14 @@ resolve_path = (path: @string) {
     }
 }
 
+set_path = (path: @string) {
+    // Will set the current path to the provided one.
+    // Doesn't do anything at the moment.
+}
+
 return {
+    exec_proc,
+    term_proc,
     resolve_path,
-    exec_proc
+    set_path
 }
