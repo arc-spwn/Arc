@@ -1,0 +1,4 @@
+extract $
+extract import "kcalls.spwn"
+
+pass = get_input("Password for {}: ".fmt(username()))
