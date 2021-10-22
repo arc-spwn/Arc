@@ -13,10 +13,7 @@ while true {
     // Specky this one is broken.
     // let cmd = args.shift().lowercase()
 
-    if args[0] == "cd" {
-        out = resolve_path(args[1])
-        if out['exists'] == true {
-            path = args[1]
-        }
+    if args[0] == "exit" {
+        break
     }
 }

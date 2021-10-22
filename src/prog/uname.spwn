@@ -1,1 +1,3 @@
+extract $
+
 print("Arc {} 0.1.0-indev".fmt("arcbtw"))

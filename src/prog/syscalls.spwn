@@ -14,5 +14,6 @@ resolve_path = (path: @string) {
 }
 
 return {
-    resolve_path
+    resolve_path,
+    exec_proc
 }
