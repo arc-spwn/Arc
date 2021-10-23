@@ -1,8 +1,6 @@
 # Arc
 An operating system written in *mostly* [SPWN](https://github.com/Spu7Nix/SPWN-language) *Hopefully.*
 
-## About
-Currently it doesn't do anything.
 
 ## Requirements
 I suck at Makefile, so make sure you have the following.
@@ -26,3 +24,4 @@ It sounded cool, so I went with it.
 - [Fl1pNatic](https://github.com/Fl1pNatic)
 - [SeanDaSheep](https://github.com/SeanDaSheep)
 - [WoffleTbh](https://github.com/WoffleTbh)
+- [Tags](https://github.com/zTags)
