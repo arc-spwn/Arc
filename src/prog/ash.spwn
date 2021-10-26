@@ -9,11 +9,7 @@ while true {
 
     let args = input.replace(r"[\s\r\n\t]+"," ").trim().split(" ").filter(v => !v.is_empty())
     if args.length == 0 {continue}
+    let cmd = args.shift().lowercase()
 
-    // Specky this one is broken.
-    // let cmd = args.shift().lowercase()
-
-    if args[0] == "exit" {
-        break
-    }
+    if cmd == "quit" {break}
 }
