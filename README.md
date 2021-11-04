@@ -5,13 +5,7 @@ An operating system written in *mostly* [SPWN](https://github.com/Spu7Nix/SPWN-l
 
 
 ## Requirements
-I suck at Makefile, so make sure you have the following.
-
-- GRUB
-- GCC
-- NASM
-- XORRISO
-- LD
+Please hold while we get this thing working.
 
 ## Questions and Answers
 > Why was Arc chosen? It doesn't fit the SPWN naming scheme.
